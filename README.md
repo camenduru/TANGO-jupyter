@@ -19,5 +19,13 @@ https://pantomatrix.github.io/TANGO/
 
 ### 🖼 Output
 
+Input:
+
+https://github.com/user-attachments/assets/aa5c59c2-46e7-4023-839c-d62d8d771c81
+
+Output:
+
+https://github.com/user-attachments/assets/d2665857-2dfc-46ba-98e5-557cb2331fbd
+
 ### 🏢 Sponsor
 https://runpod.io
