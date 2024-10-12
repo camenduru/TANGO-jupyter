@@ -35,5 +35,9 @@ Output:
 
 https://github.com/user-attachments/assets/d2665857-2dfc-46ba-98e5-557cb2331fbd
 
+Output:
+
+https://github.com/user-attachments/assets/35a50632-6d1e-4bdf-8cb0-df2c43083c8a
+
 ### 🏢 Sponsor
 https://runpod.io
