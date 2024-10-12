@@ -21,6 +21,14 @@ https://pantomatrix.github.io/TANGO/
 
 Input:
 
+https://github.com/user-attachments/assets/5660da40-af7e-46b5-ba2c-6b1bba9bed67
+
+Output:
+
+https://github.com/user-attachments/assets/40486269-7a90-4c03-9904-43113f0f1281
+
+Input:
+
 https://github.com/user-attachments/assets/aa5c59c2-46e7-4023-839c-d62d8d771c81
 
 Output:
