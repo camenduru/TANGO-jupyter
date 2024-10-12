@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TANGO-jupyter/blob/main/TANGO_gradio_jupyter.ipynb) | TANGO_gradio_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TANGO-jupyter/blob/main/TANGO_jupyter.ipynb) | TANGO_jupyter
 
 ### 🧬 Code
 https://github.com/CyberAgentAILab/TANGO
